@@ -11,8 +11,8 @@ Dự án tập trung vào việc **mô phỏng một chiến dịch tấn công 
 
 Vui lòng xem các tài liệu bên dưới để đọc chi tiết theo ngôn ngữ mong muốn:
 
-* [**README_VI.md**](#) : Tài liệu chi tiết tiếng Việt
-* [**README_EN.md**](#) : Detailed documentation in English
+* [**README_VI.md**](https://github.com/nhuthangl24/Phishing-Simulation-Framework/blob/main/README_VI.md) : Tài liệu chi tiết tiếng Việt
+* [**README_EN.md**](https://github.com/nhuthangl24/Phishing-Simulation-Framework/blob/main/README_EN.md) : Detailed documentation in English
 
 ## Nội dung chính của dự án
 
